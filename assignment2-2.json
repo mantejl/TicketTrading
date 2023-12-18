@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "name": "Metallica",
+      "tour": "M72 WORLD Tour",
+      "localDate": "2023-08-25",
+      "venue": "SoFi Stadium",
+      "agents": 2
+    },
+    {
+      "name": "Maroon 5",
+      "tour": "The Las Vegas Residency",
+      "localDate": "2023-03-24",
+      "venue": "Dolby Live",
+      "agents": 1
+    },
+    {
+      "name": "blink-182",
+      "tour": "blink-182 Tour 2023",
+      "localDate": "2023-06-16",
+      "venue": "BMO Stadium",
+      "agents": 3
+    },
+    {
+      "name": "Ana Gabriel",
+      "tour": "Por Amor A Ustedes Tour",
+      "localDate": "2023-02-25",
+      "venue": "Kia Forum",
+      "agents": 2
+    },
+    {
+      "name": "Greta Van Fleet",
+      "tour": "Dreams In Gold Tour 2023",
+      "localDate": "2023-03-24",
+      "venue": "Honda Center",
+      "agents": 1
+    }
+  ]
+}
